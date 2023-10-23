@@ -1,3 +1,10 @@
+/*This program will calculate the weekly average tax withholding for a customer based on their weekly income, in the following tiers:
+1.	Income less than $500: 10%
+2.	Income between $500 and $1499: 15%
+3.	Income between $1500 and $2499: 20%
+4. Income $2500 and above: %30
+*/
+
 package CT_Assignments;
 	import java.util.Scanner;
 
